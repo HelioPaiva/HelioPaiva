@@ -1,13 +1,21 @@
-### 👋 Olá, eu sou Hélio!
-Sou apaixonado por tecnologia cloud, desenvolvimento backend e automações inteligentes.
+# 👨‍💻 Hélio — Cloud & Data Engineering Specialist
 
-🔧 Tecnologias:  
-- ☁️ Azure, AWS, Databricks, Snowflake  
-- 🐍 Python, Node.js  
-- 🛠️ Docker, Kubernetes  
+Sou engenheiro de dados com +15 anos de experiência em arquitetura de soluções, desenvolvimento backend e plataformas em nuvem. Atuo com foco em **Azure**, **DevOps**, e **engenharia de dados escalável**, combinando código limpo com automação eficiente.
 
-📂 Projetos em destaque:  
-- [CloudSync](https://github.com/seuusuario/cloudsync) – Sincronização inteligente entre buckets
-- [Infra-as-Code](https://github.com/seuusuario/infra-as-code) – Infraestrutura automatizada com Terraform
+---
 
-📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/helio-paiva16/) | [Portfólio](https://heliopaiva.com/)
+## ⚙️ Tecnologias & Ferramentas
+
+### 💾 Data Engineering
+- **Databricks**: Python, PySpark, Scala, SQL
+- **Snowflake**: SQL, Stages, Tasks, Stream, Snowpipe   
+- **Azure Data Factory**: Pipelines, Linked Services, Triggers  
+- **Synapse Analytics**: Apache Spark, Pipelines  
+- **Power BI**: DAX, M, Python, RLS  
+- **Cosmos DB**, **MongoDB**, **SQL Server**, **Oracle**, **PostgreSQL**
+
+### ☁️ Cloud Infra & DevOps
+- **Azure Storage**: Blob, Queue, Tables, File Share  
+- **Azure Logic Apps**, **Stream Analytics**, **Purview**  
+- **App Services**: .NET Core, C#  
+- **Azure DevOps**
