@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Olá, eu sou Hélio!
+Sou apaixonado por tecnologia cloud, desenvolvimento backend e automações inteligentes.
 
-<!--
-**HelioPaiva/HelioPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tecnologias:  
+- ☁️ Azure, AWS, Databricks, Snowflake  
+- 🐍 Python, Node.js  
+- 🛠️ Docker, Kubernetes  
 
-Here are some ideas to get you started:
+📂 Projetos em destaque:  
+- [CloudSync](https://github.com/seuusuario/cloudsync) – Sincronização inteligente entre buckets
+- [Infra-as-Code](https://github.com/seuusuario/infra-as-code) – Infraestrutura automatizada com Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/helio-paiva16/) | [Portfólio](https://heliopaiva.com/)
